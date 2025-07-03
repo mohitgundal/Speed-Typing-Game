@@ -83,5 +83,3 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/mohitgundal)
 ## 🙏 Thank you for checking this out!
 If you liked it, consider giving a ⭐ to the repository 😊
 
-```
-
