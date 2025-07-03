@@ -26,6 +26,9 @@ A fun and interactive typing game built with HTML, CSS, and JavaScript. Test you
 ## ✅ Results Screen
 ![Results Screen](./Screenshot3.png)
 
+### 🎥 Demo in Action
+![Speed Typing Demo](./images/demo.gif)
+
 ## 🧰 Tech Stack
 
 - HTML
