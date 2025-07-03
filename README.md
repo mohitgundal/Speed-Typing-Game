@@ -1,32 +1,38 @@
-# speed-typing-game
-A fun and interactive speed typing game built with HTML, CSS, and JavaScript. Test your typing speed and accuracy against the clock!
+# 💨 Speed Typing Game
 
-## Features
+![GitHub Stars](https://img.shields.io/github/stars/mohitgundal/speed-typing-game?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/mohitgundal/speed-typing-game?style=social)
+![GitHub License](https://img.shields.io/github/license/mohitgundal/speed-typing-game)
+![Visitor Count](https://komarev.com/ghpvc/?username=mohitgundal&label=Repo+Views&color=blue)
 
-- Random word generation
-- Countdown timer
-- Live score tracking
-- Game over and restart functionality
-- Clean and responsive user interface
+A fun and interactive typing game built with HTML, CSS, and JavaScript. Test your typing speed and accuracy against the clock ⏱️ and try to beat your high score!
 
-## Demo
-https://mohitgundal.github.io/Speed-Typing-Game/
+## 🚀 Features
 
-## Screenshots
-## Home Screen
+- 🧠 Random word generation
+- ⏳ Countdown timer
+- 📈 Live score tracking
+- 🔄 Game over + restart functionality
+- 📱 Clean, responsive user interface
+
+## 🌐 Live Demo
+👉 [Play Now](https://mohitgundal.github.io/Speed-Typing-Game/)
+
+## 📸 Screenshots
+## 🏠 Home Screen
 ![Home Screen](./Screenshot1.png)
-## During typing
+## ⌨️ Typing in Progress
 ![Typing in Progress](./Screenshot2.png)
-## Results
+## ✅ Results Screen
 ![Results Screen](./Screenshot3.png)
 
-## Tech Stack
+## 🧰 Tech Stack
 
 - HTML
 - CSS
 - JavaScript
 
-## How to Run Locally
+## 💻 How to Run Locally
 
 1. **Clone this repository:**
    ```bash
@@ -44,7 +50,7 @@ https://mohitgundal.github.io/Speed-Typing-Game/
    ---
 
 
-## Project Structure
+## 📁 Project Structure
 ```plaintext
 /
 ├── index.html        # The main HTML file, structuring the game and content.
@@ -56,18 +62,23 @@ https://mohitgundal.github.io/Speed-Typing-Game/
 ```
 
 
-## Contribution
-Feel free to fork the repository, make improvements, and submit pull requests. Issues and feature requests are also welcome!
+## 🤝 Contributing
+Contributions are welcome!
+Feel free to fork this repo, improve the game, and open a pull request.
+You can also raise issues or suggest new features 💡
 
 
-## License
-This project is licensed under the MIT License — see the LICENSE file for details.
+## 📜 License
+Licensed under the MIT License – see LICENSE for more details.
 
 
-## Contact
-Created by Mohit Gundal. Feel free to reach out for suggestions or collaborations!
+## 🙋‍♂️ Author
+Made with 💙 by **Mohit Gundal**  
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/mohitgundal)
 
 
-## Thank you for checking out this project! 😊
----
+## 🙏 Thank you for checking this out!
+If you liked it, consider giving a ⭐ to the repository 😊
+
+```
 
