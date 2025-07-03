@@ -77,7 +77,7 @@ Licensed under the MIT License – see LICENSE for more details.
 
 ## 🙋‍♂️ Author
 Made with 💙 by **Mohit Gundal**  
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/mohitgundal)
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/mohitbuilds/)
 
 
 ## 🙏 Thank you for checking this out!
