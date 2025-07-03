@@ -28,7 +28,6 @@ A fun and interactive typing game built with HTML, CSS, and JavaScript. Test you
 
 ### 🎥 Demo in Action
 ![Speed Typing Demo](./Images/demo.mp4)
-![Speed Typing Demo](C:\Users\Lenovo\mohitbuilds\Images\demo.mp4)
 
 ## 🧰 Tech Stack
 
